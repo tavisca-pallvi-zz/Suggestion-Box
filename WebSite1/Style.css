@@ -1,0 +1,29 @@
+﻿.ulist {
+    height: auto;
+    border: 1px solid black;
+}
+ul {
+    list-style-type: none;
+    
+}
+li:hover {
+    background-color:#d9e0f3;
+   
+    height:20px;
+}
+li{
+    padding:6px;
+}
+.autocomplete {
+    margin: 0 auto;
+    width: 500px;
+    min-height: 0px;
+    border: 1px solid black;
+    max-height: 200px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+#main {
+    height: 30px;
+    width: inherit;
+}
